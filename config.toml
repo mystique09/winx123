@@ -55,7 +55,7 @@ Facebook = true
 enable = true
 title = "<h1>Wenjie Garcia</h1>"
 subtitle = "Artist"
-avatarURL = "/images/avatar.webp"
+avatarURL = "/images/avatar.jpg"
 typeit = true
 social = true
 [params.home.posts]
