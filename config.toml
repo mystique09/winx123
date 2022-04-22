@@ -1,0 +1,97 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Winx123'
+theme = "LoveIt"
+
+[params]
+version = "0.2.X"
+description = "Welcome to my portfolio website."
+keywords = ["Arts", "Portfolio", "Wenjie", "Wenjie portfolio"]
+
+[params.search]
+enable = true
+contentLength = 4000
+placeholder = "Arts"
+maxResultLength = 10
+snippetLength = 30
+hightlightTag = "em"
+
+[params.footer]
+enable = true
+author = true
+copyright = true
+since = 2022
+
+[params.section]
+paginate = 20
+dateFormat = "01-02"
+
+[params.list]
+paginate = 20
+dateFormat = "01-02"
+
+[params.social]
+Facebook = "wengiegarcia"
+Twitter = "xxxWinx123"
+
+[params.typeit]
+cursorChar = "|"
+
+[params.compatibility]
+polyfill = true
+objectFit = true
+
+
+
+[params.page]
+fontawesome = true
+[params.page.share]
+enable = true
+Twitter = true
+Facebook = true
+
+[params.home]
+[params.home.profile]
+enable = true
+title = "<h1>Wenjie Garcia</h1>"
+subtitle = "Artist"
+avatarURL = "/images/avatar.jpg"
+typeit = true
+social = true
+[params.home.posts]
+enable = true
+paginate = 6
+
+[menu]
+[[menu.main]]
+identifier = "posts"
+name = "Post"
+pre = ""
+post = ""
+url = "/posts"
+title = ""
+weight = 1
+[[menu.main]]
+identifier = "tags"
+pre = ""
+post = ""
+name = "Tags"
+url = "/tags/"
+title = ""
+weight = 2
+[[menu.main]]
+identifier = "categories"
+pre = ""
+post = ""
+name = "Categories"
+url = "/categories/"
+title = ""
+weight = 3
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[author]
+name = "Wenjie Garcia"
+link = "https://facebook.com/wengiegarcia"
