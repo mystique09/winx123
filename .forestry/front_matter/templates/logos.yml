@@ -1,6 +1,17 @@
 ---
 label: Logos
 hide_body: true
-fields: []
+fields:
+- name: heading
+  type: textarea
+  default: Replace Heading
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 2
+  label: heading
+  description: Exercise One
 pages:
 - content/posts/Exercise One.md
