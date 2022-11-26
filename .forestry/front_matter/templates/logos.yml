@@ -1,6 +1,14 @@
 ---
 label: Logos
 hide_body: true
-fields: []
+fields:
+- name: exercise_one
+  type: text
+  config:
+    required: false
+  label: Exercise one
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 pages:
 - content/posts/Exercise-One.md
