@@ -1,0 +1,1 @@
+## Blog website for school project

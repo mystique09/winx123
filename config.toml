@@ -26,7 +26,7 @@ theme = "LoveIt"
   
   [params.section]
     paginate = 20
-    dateFormat = "01-02-0000"
+    dateFormat = "01-02"
   
   [params.list]
     paginate = 20
