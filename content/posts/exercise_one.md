@@ -1,14 +1,18 @@
 ---
-title: Welcome
+title: "Exercise One"
 author: Foureyes
-date: 2022-04-22T12:01:10.000+00:00
-tags: [exercise]
+date: 2022-11-26T22:32:22+08:00
+tags: [welcome]
 categories: [exercise]
 ---
 
-# Welcome to Foureyes blog!
+Welcome, today we will demonstrate the basic exercises.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+---
+
+## Exercise one
+### Jogging
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna
     aliqua. Ut enim ad minim veniam, quis nostrud exercitation
     ullamco laboris nisi ut aliquip ex ea commodo consequat.
