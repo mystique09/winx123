@@ -2,3 +2,5 @@
 label: Logos
 hide_body: true
 fields: []
+pages:
+- content/posts/Exercise-One.md
