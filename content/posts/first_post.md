@@ -1,5 +1,5 @@
 ---
-title: Academic Commission
+title: Welcome
 date: 2022-04-22T12:01:10.000+00:00
 
 ---
